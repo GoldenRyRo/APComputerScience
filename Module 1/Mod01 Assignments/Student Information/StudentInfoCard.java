@@ -31,15 +31,15 @@ public class StudentInfoCard
 		//Head && || title
 		System.out.println("*****************************************************************\n*                                                               *\n*                    Student Information                        *\n*                                                               *\n*****************************************************************\n");
 		//Name, birthday, and age
-		System.out.print("Name: Cole Hudson    ");
-		System.out.print("Birthday: 7/27/1999    ");
-		System.out.print("Age: 15\n\n");
+		System.out.print("Name: Cole Hudson");
+		System.out.print("Birthday: 7/27/1999");
+		System.out.println("Age: 15");
 		//School, grade, city
-		System.out.print("School: Fremont High School    ");
-		System.out.print("Grade: 9    ");
-		System.out.print("City: Fremont\n\n");
+		System.out.println("School: Fremont High School    ");
+		System.out.println("Grade: 9    ");
+		System.out.println("City: Fremont\n\n");
 		//Contact
-		System.out.print("Home Phone: 231-924-9298    ");
+		System.out.println("Home Phone: 231-924-9298    ");
 		System.out.println("Available: 7:00 - 9:30pm Monday thru Sunday");
 		System.out.println("No current cell phone");
 		System.out.println("Email: cmhudson11@gmail.com\n");
@@ -47,7 +47,8 @@ public class StudentInfoCard
 		System.out.println("Current Math: Pre-Calc");
 		System.out.println("Programming Experience: 1.5 years\n");
 		//Why I'm taking this course
-		System.out.print("I am taking this course to learn Java and to become a better programmer.\nMy current programming is a bit unorthodox, and I would like to become more refined.");
+		System.out.print("I am taking this course to learn Java and to become a better programmer.\n");
+		system.out.print("My current programming is a bit unorthodox, and I would like to become more refined.");
 
 
 
