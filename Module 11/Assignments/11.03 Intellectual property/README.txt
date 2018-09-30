@@ -7,7 +7,8 @@ AUTHORS: C.Hudson
  
 <+s>: This was a really interesting topic to write about. It made me think more about my views on IP laws.
       
-<-s>: I ran over by about 60 words which couldn’t be helped if I wanted to fully flesh out my ideas.
+<-s>: I ran over by about 60 words which couldn’t be helped if I wanted to fully flesh out my ideas. I could not 
+speak my ideas an shorter
            
 *************************************************************************
 In the future I should try and make a better effort to confine my essay to 250 words. 
